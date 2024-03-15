@@ -8,6 +8,7 @@ Please contact us by email if you need the original point cloud data set.
 gao@isir.upmc.fr
 
 # Dependencies
-TensorFlow Version: 2.13.1
-numpy
+TensorFlow Version: 2.13.1, 
+tensorflow_addons, 
+numpy, 
 plotly
